@@ -4322,6 +4322,46 @@ PrefabInstance:
       propertyPath: m_Name
       value: BookOrder
       objectReference: {fileID: 0}
+    - target: {fileID: 1022254609192171908, guid: 851f4983a2807f14e9e6f04ec855f43f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.452
+      objectReference: {fileID: 0}
+    - target: {fileID: 1022254609192171908, guid: 851f4983a2807f14e9e6f04ec855f43f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.652
+      objectReference: {fileID: 0}
+    - target: {fileID: 1357641342732577392, guid: 851f4983a2807f14e9e6f04ec855f43f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.4993
+      objectReference: {fileID: 0}
+    - target: {fileID: 1357641342732577392, guid: 851f4983a2807f14e9e6f04ec855f43f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.465
+      objectReference: {fileID: 0}
+    - target: {fileID: 1357641342732577392, guid: 851f4983a2807f14e9e6f04ec855f43f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.067
+      objectReference: {fileID: 0}
+    - target: {fileID: 1515531165858532472, guid: 851f4983a2807f14e9e6f04ec855f43f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 1515531165858532472, guid: 851f4983a2807f14e9e6f04ec855f43f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.453
+      objectReference: {fileID: 0}
+    - target: {fileID: 1515531165858532472, guid: 851f4983a2807f14e9e6f04ec855f43f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.391
+      objectReference: {fileID: 0}
     - target: {fileID: 6249568180283456428, guid: 851f4983a2807f14e9e6f04ec855f43f,
         type: 3}
       propertyPath: onAllSocketsFilled.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
