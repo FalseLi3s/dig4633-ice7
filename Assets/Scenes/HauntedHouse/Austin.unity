@@ -4322,6 +4322,36 @@ PrefabInstance:
       propertyPath: m_Name
       value: BookOrder
       objectReference: {fileID: 0}
+    - target: {fileID: 6249568180283456428, guid: 851f4983a2807f14e9e6f04ec855f43f,
+        type: 3}
+      propertyPath: onAllSocketsFilled.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6249568180283456428, guid: 851f4983a2807f14e9e6f04ec855f43f,
+        type: 3}
+      propertyPath: onAllSocketsFilled.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1723078973}
+    - target: {fileID: 6249568180283456428, guid: 851f4983a2807f14e9e6f04ec855f43f,
+        type: 3}
+      propertyPath: onAllSocketsFilled.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SetActive
+      objectReference: {fileID: 0}
+    - target: {fileID: 6249568180283456428, guid: 851f4983a2807f14e9e6f04ec855f43f,
+        type: 3}
+      propertyPath: onAllSocketsFilled.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: UnityEngine.GameObject, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6249568180283456428, guid: 851f4983a2807f14e9e6f04ec855f43f,
+        type: 3}
+      propertyPath: onAllSocketsFilled.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6249568180283456428, guid: 851f4983a2807f14e9e6f04ec855f43f,
+        type: 3}
+      propertyPath: onAllSocketsFilled.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 7457242799282824864, guid: 851f4983a2807f14e9e6f04ec855f43f,
         type: 3}
       propertyPath: m_LocalPosition.x
